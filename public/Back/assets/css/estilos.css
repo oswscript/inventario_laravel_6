@@ -1,0 +1,132 @@
+.dato_previo{
+    background-color: green;
+    color: white;
+}
+
+textarea{
+	resize: none;
+}
+
+.status_activo_letra{
+
+	color:green;
+	font-weight: bold;
+
+}
+
+.status_inactivo_letra{
+
+	color:red;
+	font-weight: bold;
+
+}
+
+.no_datos_reporte{
+    background-color: red;
+    color:white;
+    font-size: 14pt;
+    font-weight:bold;
+}
+
+.resaltar_codigo{
+
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.rango_titulo{
+
+    color:black;
+    font-size: 14pt;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.fac_pendientes{
+
+    color:orange;
+    font-weight: bold;
+
+}
+
+.fac_rechazadas{
+    
+    color:red;
+    font-weight: bold;
+
+}
+
+.fac_aprobadas{
+    
+    color:green;
+    font-weight: bold;
+
+}
+
+.status_rep_apro{
+    
+    color:black;
+    font-weight: bold;
+    background-color:green;
+
+}
+
+.status_rep_pen{
+    
+    color:black;
+    font-weight: bold;
+    background-color:orange;
+
+}
+
+.status_rep_rec{
+    
+    color:black;
+    font-weight: bold;
+    background-color:red;
+
+}
+
+.color_letra_badge{
+    color:black;
+    font-weight:bold;
+}
+
+.estilo_tool{
+    font-size: 14pt;
+    color:#167CCB;
+}
+
+@media (min-width: 200px) {
+    .imagen_previa{
+    
+        width:100%;
+        height:auto;
+    
+    }
+}
+
+@media (min-width: 800px) {
+    .imagen_previa{
+        
+        width:300px;
+        height:300px;
+    
+    }
+}
+
+.error{
+
+   border:2px double #FDE7E9 !important;
+   
+
+}
+
+.color_barra{
+
+   background-color:red !important;
+
+}
