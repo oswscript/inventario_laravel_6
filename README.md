@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://oswscript.com/images/logo2.png" width="400"></p>
 
 # LARAVEL INVENTORY MANAGER SYSTEM
 
@@ -19,8 +19,6 @@ In addition there is also the possibility of controlling EXPENSES REPORTS by dat
 * Json
 * JQuery
 * Css 3
-
-Please make sure to update tests as appropriate.
 
 ## Documentation
 * [Doc. Inventory English](http://inventarioen.oswscript.com/)
