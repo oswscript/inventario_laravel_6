@@ -23,3 +23,6 @@ In addition there is also the possibility of controlling EXPENSES REPORTS by dat
 ## Documentation
 * [Doc. Inventory English](http://inventarioen.oswscript.com/)
 * [Doc. Inventario Español](http://inventario.oswscript.com/)
+
+## License
+Opensource: This system is open source, a contribution for free educational use, business management and administration. Sale is not allowed.
