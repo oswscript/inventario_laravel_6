@@ -21,8 +21,8 @@ In addition there is also the possibility of controlling EXPENSES REPORTS by dat
 * Css 3
 
 ## Documentation
-* [Doc. Inventory English](https://inventory-documentation-en.oswscript.com	/)
-* [Doc. Inventario Spanish](https://inventarioes.oswscript.com/)
+* [Doc. Inventory English](https://inventory-documentation-en.oswscript.com/)
+* [Doc. Inventario Spanish](https://inventory-documentation-es.oswscript.com/)
 
 ## DEMO
 * [DEMO](https://inventario.oswscript.com/)
