@@ -30,4 +30,4 @@ In addition there is also the possibility of controlling EXPENSES REPORTS by dat
 * PassWord: 123456
 
 ## License
-Opensource: This system is open source, a contribution for free educational use, business management and administration. Sale is not allowed.
+Open Source: This system is open source, a contribution for free educational use, business management and administration. Sale is not allowed.
