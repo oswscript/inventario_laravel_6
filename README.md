@@ -1,4 +1,4 @@
-<p align="center"><img src="https://oswscript.com/images/logo2.png" width="400"></p>
+<p align="center"><img src="https://oswscript.com/main_assets/images/logo.jpg" width="400"></p>
 
 # OSWSCRIPT INVENTORY MANAGER SYSTEM
 
