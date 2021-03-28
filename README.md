@@ -1,8 +1,8 @@
 <p align="center"><img src="https://oswscript.com/images/logo2.png" width="400"></p>
 
-# LARAVEL INVENTORY MANAGER SYSTEM
+# OSWSCRIPT INVENTORY MANAGER SYSTEM
 
-The OSW-INVENTORY system allows you to register PRODUCTS which are classified with CATEGORIES and SUB-CATEGORIES. In the purchase or sale processes, the products in the stock will be added or subtracted.
+The OSWSCRIPT INVENTORY system allows you to register PRODUCTS which are classified with CATEGORIES and SUB-CATEGORIES. In the purchase or sale processes, the products in the stock will be added or subtracted.
 
 Each PURCHASE and SALE process can be viewed in detail in the KARDEX and REPORTS modules, which allow filtering by date and status ranges the invoices found.
 
@@ -21,10 +21,11 @@ In addition there is also the possibility of controlling EXPENSES REPORTS by dat
 * Css 3
 
 ## Documentation
-* [Doc. Inventory English](http://inventarioen.oswscript.com/)
+* [Doc. Inventory English](https://inventarioen.oswscript.com/)
+* [Doc. Inventario Spanish](https://inventarioes.oswscript.com/)
 
 ## DEMO
-* [DEMO](http://inventariovenezuela.oswscript.com/)
+* [DEMO](https://inventario.oswscript.com/)
 * Email: admin@admin.com
 * PassWord: 123456
 
